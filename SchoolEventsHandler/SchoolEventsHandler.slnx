@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ChampionsLeague/ChampionsLeague.csproj" />
+  <Project Path="../CompanyEventsHandler/CompanyEventsHandler.csproj" />
+  <Project Path="SchoolEventsHandler/SchoolEventsHandler.csproj" />
+</Solution>

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MyNewList/MyNewList.csproj" />
+  <Project Path="SwapMe/SwapMe.csproj" />
+</Solution>

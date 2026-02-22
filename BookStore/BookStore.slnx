@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../Lab6/MyNewList/MyNewList.csproj" />
+  <Project Path="BookStore/BookStore.csproj" />
+</Solution>

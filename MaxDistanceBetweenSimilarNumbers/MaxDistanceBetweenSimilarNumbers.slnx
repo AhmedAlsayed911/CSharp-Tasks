@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../DistanceBetweenSimilarNumbers-V2/MaxDistanceBetweenSimilarNumbers-V2.csproj" />
+  <Project Path="../FromOneToSky/FromOneToSky-V1.csproj" />
+  <Project Path="../Phrase Reversing/PhraseReversing.csproj" />
+  <Project Path="FromOneToSky-V2/FromOneToSky-V2.csproj" Id="056d4aa3-9d09-4ff1-86c7-604628699fd7" />
+  <Project Path="MaxDistanceBetweenSimilarNumbers/MaxDistanceBetweenSimilarNumbers-V1.csproj" />
+</Solution>

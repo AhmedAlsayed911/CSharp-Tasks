@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Durations/Durations.csproj" />
+  <Project Path="../MathHandler/MathHandler.csproj" />
+  <Project Path="../Singleton/Singleton.csproj" />
+  <Project Path="PointHandler/PointHandler.csproj" />
+</Solution>
